@@ -1,1 +1,1 @@
-console.log("DrawLock coming soon page loaded.");
+document.documentElement.classList.add("loaded");
